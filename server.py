@@ -32,6 +32,5 @@ def play_color(num, color):
 
 
 
-
 if __name__ == "__main__":
     app.run(debug = True)
